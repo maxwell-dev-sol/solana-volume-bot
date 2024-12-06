@@ -3,6 +3,12 @@ SolVolume is the best AIO-bot which includes Solana Volume, Solana Bump, Solana 
 
 ![](files/SITEonPC.png)
 
+<div align="left">
+  <a href="https://solvolume.fun">
+    <img src="files/web.png" alt="Website" width="300">
+  </a>
+</div>
+
 # ABOUT
 ![](files/line.gif)
 
